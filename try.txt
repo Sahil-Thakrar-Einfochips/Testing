@@ -5,6 +5,7 @@ try 1
 =======
 1st commit 
 2nd commit
+<<<<<<< HEAD
 3rd commit
 4th commit
 >>>>>>> f2516d0... 1st commit of 2nd file
@@ -12,3 +13,6 @@ try 1
 1st commit 
 2nd commit
 >>>>>>> 795e4b0... 2nd commit of 2nd file
+=======
+3rd commit
+>>>>>>> 48f773b... 3rd commit of 2nd file
