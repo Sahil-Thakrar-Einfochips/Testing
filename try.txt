@@ -1,6 +1,7 @@
 try 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 1st commit
 =======
 1st commit 
@@ -21,3 +22,10 @@ try 1
 3rd commit
 4th commit
 >>>>>>> 69738b3... 4th commit of 2nd file
+=======
+1st commit 
+2nd commit
+3rd commit
+4th commit
+4th commit
+>>>>>>> a966a3024267b110404fac7f5195069550c2cf6f
