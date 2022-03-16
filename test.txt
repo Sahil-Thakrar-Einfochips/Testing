@@ -1,4 +1,7 @@
 Testing
 commit 2
+<<<<<<< 8e27efdbc375aae5c812971c4b237e6cc14c2330
 commit 3
 commit with branch
+=======
+>>>>>>> commit 2
