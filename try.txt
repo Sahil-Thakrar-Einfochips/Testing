@@ -1,2 +1,9 @@
 try 1
+<<<<<<< HEAD
 1st commit
+=======
+1st commit 
+2nd commit
+3rd commit
+4th commit
+>>>>>>> f2516d0... 1st commit of 2nd file
