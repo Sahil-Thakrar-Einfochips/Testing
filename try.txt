@@ -1,0 +1,10 @@
+try 1
+<<<<<<< HEAD
+1st commit 
+2nd commit
+3rd commit
+4th commit
+4th commit
+=======
+1st commit
+>>>>>>> 146af6d... commit 1
